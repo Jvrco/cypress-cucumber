@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "65d11e187f6b62a1b71494ef"
+  },
+  "name": "Comida Boa",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Boa Viagem",
+    "street": "João Lisboa",
+    "number": "300"
+  },
+  "typeOfFood": "Pizza",
+  "timestamp": "1708203503526",
+  "profileImage": "uploads/1710285498704.png",
+  "__v": 0,
+  "coverImage": "uploads/1710133232935.png",
+  "site": "undefined.com"
+},
+{
+  "_id": {
+    "$oid": "65f12c896361125892238042"
+  },
+  "name": "Ta San Yuen",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Espinheiro",
+    "street": "Quarenta e Oito",
+    "number": "144"
+  },
+  "typeOfFood": "Sushi",
+  "site": "sushi.com",
+  "timestamp": "1710302745359",
+  "profileImage": "Noneundefined",
+  "coverImage": "Noneundefined",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ebae8a3baf8dd33c15d917"
+  },
+  "name": "Rango bão demais",
+  "address": {
+    "city": "Paulista",
+    "neighborhood": "Casa Amarela",
+    "street": "Margaridas",
+    "number": "13"
+  },
+  "typeOfFood": "Regional",
+  "site": "rangobaodemais.com",
+  "timestamp": "1709944180447",
+  "profileImage": "uploads/1709944458295.jpg",
+  "coverImage": "Noneundefined",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ebdb3a7abb0c45f54638c3"
+  },
+  "name": "Sei lá Sushi",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Várzea",
+    "street": "Rua dos reitores",
+    "number": "243"
+  },
+  "typeOfFood": "Sushi",
+  "site": "seilasushi.com",
+  "timestamp": "1709953994210",
+  "profileImage": "uploads/1709955898780.jpg",
+  "coverImage": "uploads/1710107562375.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ec698e7ade775ee94ccfed"
+  },
+  "name": "Pizza Top",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Boa Viagem",
+    "street": "Amélias",
+    "number": "300"
+  },
+  "typeOfFood": "Pizza",
+  "site": "pizzatop.com",
+  "timestamp": "1709991517834",
+  "profileImage": "uploads/1709992334056.jpg",
+  "coverImage": "Noneundefined",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ecc55c7ade775ee94cd026"
+  },
+  "name": "Brazzettus",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Várzea",
+    "street": "R. Profa. Argemira Rêgo Barros",
+    "number": "144"
+  },
+  "typeOfFood": "Churrasco",
+  "site": "https://www.menudigital.app.br/brazzettusvarzea/",
+  "timestamp": "1709991517834",
+  "profileImage": "uploads/1710015836887.jpg",
+  "coverImage": "uploads/1710107458841.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ecca36123d68500ca77629"
+  },
+  "name": "Chinês Genérico",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Espinheiro",
+    "street": "R. Quarenta e Oito",
+    "number": "144"
+  },
+  "typeOfFood": "Chinesa",
+  "site": "https://cardapio.menu/restaurants/recife/ta-san-yuen",
+  "timestamp": "1710017024076",
+  "profileImage": "uploads/1710017078418.jpg",
+  "coverImage": "uploads/1710331089708.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed1b9a5a4e10295441d858"
+  },
+  "name": "Boi e Brasa",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Madalena",
+    "street": "Av. Caxangá",
+    "number": "4435"
+  },
+  "typeOfFood": "Churrascaria",
+  "site": "https://www.boiebrasa.com.br",
+  "timestamp": "1710029772033",
+  "profileImage": "uploads/1710083490129.png",
+  "coverImage": "Noneundefined",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed1c4e5a4e10295441d868"
+  },
+  "name": "Casa dos Doces",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Casa Amarela",
+    "street": "Estr. do Arraial",
+    "number": "3692"
+  },
+  "typeOfFood": "Doceria",
+  "site": "https://www.casadosdoces.com/e-commerce/",
+  "timestamp": "1710029772033",
+  "profileImage": "uploads/1710038094304.png",
+  "__v": 0,
+  "coverImage": "uploads/1710096744050.png"
+},
+{
+  "_id": {
+    "$oid": "65f19cee4f1f44b667e05e6f"
+  },
+  "name": "Rainha da Várzea",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Várzea",
+    "street": "Av. Afonso Olindense",
+    "number": "2088"
+  },
+  "typeOfFood": "Panificação",
+  "site": "qualquer.com",
+  "timestamp": "1710333018347",
+  "profileImage": "uploads/1710333166254.png",
+  "coverImage": "uploads/1710333213264.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f19dc14f1f44b667e05e86"
+  },
+  "name": "Macunaíma",
+  "address": {
+    "city": "Recife",
+    "neighborhood": "Boa Viagem",
+    "street": "Av. Eng. Domingos Ferreira",
+    "number": "2045"
+  },
+  "typeOfFood": "Confeitaria",
+  "site": "qualquer.com",
+  "timestamp": "1710333018347",
+  "profileImage": "uploads/1710333377543.jpg",
+  "coverImage": "uploads/1710333377545.jpg",
+  "__v": 0
+}]
